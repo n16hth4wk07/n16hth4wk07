@@ -1,16 +1,13 @@
-### Hi there 👋
+![itachi](https://user-images.githubusercontent.com/87468669/194644736-884ec6d0-1f6d-493a-97f6-63fd6f456694.gif)
 
-<!--
-**n16hth4wk07/n16hth4wk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hi, I’m @n16hth4wk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in Cyber Security
+
+- 🌱 I’m currently learning Ethical Hacking
+
+- 💞️ I’m looking to collaborate on Projects
+
+- 📫 How to reach me on Discord @n16hth4wk#8241 Twitter @n16hthawk
+
